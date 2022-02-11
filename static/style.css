@@ -45,7 +45,7 @@
 }
 
 #content {
-	background-image: url("https://cdn.wallpapersafari.com/11/27/fW3Xhx.jpg");
+	background-image: url("../static/image.jpg");
 	background-color: #181818;
 	font-family: 'Noto Sans JP', sans-serif;
 }
@@ -151,7 +151,7 @@ h6 {
 		top:0;
 		width: 100%;
 		height: 100%;
-		background-image: url("https://media1.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif?cid=ecf05e471lyvexqjyaqqd7eyfk8ajy52etw2hfz6pckjwx1u&rid=giphy.gif&ct=g");
+		background-image: url("../static/loader.gif");
 		background-size: 40%;
 		background-position: 50% 50%;
 		background-color: rgba(255, 255, 255, 1);
@@ -221,7 +221,7 @@ h6 {
 		top:0;
 		width: 100%;
 		height: 100%;
-		background-image: url("https://media1.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif?cid=ecf05e471lyvexqjyaqqd7eyfk8ajy52etw2hfz6pckjwx1u&rid=giphy.gif&ct=g");
+		background-image: url("../static/loader.gif");
 		background-size: 20%;
 		background-position: 50% 50%;
 		background-color: rgba(255, 255, 255, 1);
